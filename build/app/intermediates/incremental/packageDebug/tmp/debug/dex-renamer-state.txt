@@ -1,0 +1,4 @@
+#Fri Jun 21 03:07:42 CST 2019
+base.0=/Users/jackyfang/Desktop/AMFANG/Flutter/Game/spriteWidget_Learning/boxgamespritewidget/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
